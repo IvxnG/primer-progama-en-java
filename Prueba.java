@@ -4,7 +4,7 @@ public class MiPrimerClaseVersion3 {
 		
 		System.out.println("Ivan Gonzalez|");
 		System.out.println("Leon, 2002|");
-		
+		System.out.println("Valencia de don juan Windows 10");
 		
 	}
 }
